@@ -3,10 +3,10 @@ info:
   description: "A simple Google Cloud Endpoints API example."
   title: "Endpoints Example Cloudendpoint"
   version: "1.0.0"
-host: "echo-api.endpoints.arched-cabinet-288909.cloud.goog"
+host: "DOMAIN_OPENAPI"
 x-google-endpoints:
-    - name: "echo-api.endpoints.arched-cabinet-288909.cloud.goog"
-      target: "35.186.225.232"
+    - name: "DOMAIN_OPENAPI"
+      target: "IP_RESERVADA"
 consumes:
 - "application/json"
 produces:
